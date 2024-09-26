@@ -1,4 +1,4 @@
-Install go:
+Install go (1.23.1):
 ```
 https://go.dev/dl/
 ```
