@@ -1,5 +1,5 @@
 Install go:
-````
+```
 https://go.dev/dl/
 ```
 
