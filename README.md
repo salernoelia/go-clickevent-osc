@@ -1,3 +1,8 @@
+Install go:
+````
+https://go.dev/dl/
+```
+
 Install all the dependencies:
 
 ```sh
